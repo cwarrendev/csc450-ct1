@@ -1,0 +1,13 @@
+1. Include the iostream library for input/output
+2. Include the string library for string data type
+3. Use the standard namespace
+
+Main Function:
+    a. Declare string variables for firstName, lastName, streetAddress, city, and zipCode
+    b. Initialize these variables with "Chris", "Warren", "123 Warren Blvd", "Somewhere", and "12345" respectively
+    c. Print "First Name: " followed by firstName to the console
+    d. Print "Last Name: " followed by lastName to the console
+    e. Print "Street Address: " followed by streetAddress to the console
+    f. Print "City: " followed by city to the console
+    g. Print "Zip Code: " followed by zipCode to the console
+    h. Return 0 to indicate the program ran successfully

@@ -1,0 +1,8 @@
+1. Include the Input/Output Stream Library
+2. Include the Console Input/Output Library
+3. Use the standard namespace
+
+Main Function:
+    a. Print "Welcome to this C++ Program" to the console
+    b. Print "I have corrected all errors for this program." to the console
+    c. Return 0 to indicate success

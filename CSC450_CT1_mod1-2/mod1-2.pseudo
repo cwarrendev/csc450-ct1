@@ -1,0 +1,10 @@
+1. Include the Input/Output Stream Library
+2. Include the Console Input/Output Library
+3. Use the standard namespace
+
+Main Function:
+    a. Declare a double variable myMoney and initialize it with 1000.50
+    b. Print "Please be sure to correct all syntax errors in this program" to the console
+    c. Print "I have corrected all errors for this program." to the console
+    d. Print "The total amount of money available is = " followed by the value of myMoney to the console
+    e. Return 0 to indicate success
