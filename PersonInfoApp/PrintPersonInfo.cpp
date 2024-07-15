@@ -1,4 +1,4 @@
-#include <iostream> // Include the iostream library for input/output
+#include <iostream> // Include the iostream library for input and output
 #include <string> // Include the string library for string data type
 
 using namespace std; // Standard namespace for input/output
